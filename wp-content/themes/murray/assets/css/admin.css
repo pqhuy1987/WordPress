@@ -1,0 +1,13 @@
+/* Customizer Styles */
+li#accordion-section-murray_sec_upgrade h3:before {
+  content: "\f005";
+  font-family: "FontAwesome";
+}
+/* Customizer Styles */
+li#accordion-section-murray_sec_upgrade_pro h3 {
+  background: #fffeef;
+}
+li#accordion-section-murray_sec_upgrade_pro h3:before {
+  content: "\f0a2";
+  font-family: "FontAwesome";
+}

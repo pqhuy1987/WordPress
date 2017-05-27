@@ -1,0 +1,35 @@
+ChangeLog
+=========
+
+
+Version 0.9*
+
+	i) Initial Release.
+	
+Version 0.91
+
+	i) Removed languages folder
+	ii) Removed Top Menu Declaration
+	iii) Removed Logo Resize 
+	iv) Removed Many unused and invalid features.
+	v) Added Default values to Logo height/width.
+	vi) Added RT slider support
+	
+		
+Version 0.93
+
+	i) Provided unminified version of files.
+	ii) Removed unused function.	
+	
+Version 0.94
+
+	i) Added Unminified version of modernizr.	
+	ii) Other minor fixes.
+	
+Version 0.95
+	
+	i) Minor Bug Fixes.	
+	
+Version 0.96
+
+	i) Textdomain Corrected	
